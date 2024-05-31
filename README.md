@@ -1,16 +1,13 @@
-# getx_mvp
+# GetX MVP
 
-A new Flutter project.
+Welcome to GetX MVP, a Flutter project designed with clean architecture principles and utilizing GetX for state management and network calls.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+GetX MVP serves as a foundation for building scalable and maintainable Flutter applications. It incorporates the following key principles and technologies:
 
-A few resources to get you started if this is your first Flutter project:
+- **Clean Architecture**: The project structure adheres to clean architecture principles, separating concerns into distinct layers such as presentation, domain, and data. This promotes code maintainability, testability, and flexibility.
+  
+- **State Management with GetX**: GetX is utilized for state management, offering a lightweight and intuitive solution for managing application state, navigation, dependencies, and more. By leveraging GetX, we ensure efficient and reactive state management throughout the application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Network Calls**: The project includes a dedicated service for handling network calls. This service provides a centralized mechanism for making API requests, processing responses, and managing errors. By encapsulating network logic within a service, we achieve better separation of concerns and facilitate easier testing and maintenance.
