@@ -16,5 +16,6 @@ class HomeController extends GetxController with LoadingMixin{
      store.allTransactionList.clear();
     super.onInit();
    
+
   }
 }
