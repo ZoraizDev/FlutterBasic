@@ -1,4 +1,10 @@
-# GetX MVP
+# Food App
+
+<p float="left">
+	<img src="./images/food_app.gif" alt="Results view" width="250">
+</p>
+
+## Getting Started
 
 Welcome to GetX MVP, a Flutter project designed with clean architecture principles and utilizing GetX for state management and network calls.
 
