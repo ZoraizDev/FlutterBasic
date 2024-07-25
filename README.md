@@ -1,7 +1,7 @@
 # Food App
 
 <p float="left">
-	<img src="./images/food_app.gif" alt="Results view" width="250">
+	<img src="assets/images/food_app.gif" alt="Results view" width="250">
 </p>
 
 ## Getting Started
